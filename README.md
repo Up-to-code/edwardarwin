@@ -8,6 +8,14 @@ Emma uses a local language model, English Supertonic 3 F4 speech, local speech r
 
 [Watch Emma on TikTok](https://www.tiktok.com/@e.nsan/video/7694901337678515463) · [Introduction video](docs/media/emma-intro.mp4) · [Download the Mac app](https://github.com/Up-to-code/edwardarwin/releases/latest) · [Introduction transcript](docs/INTRODUCTION.md)
 
+<p align="center">
+  <a href="https://www.tiktok.com/@e.nsan/video/7694901337678515463">
+    <img src="docs/media/emma-tiktok-preview.jpg" width="360" alt="Watch Emma Darwin introduce herself on TikTok">
+  </a>
+  <br>
+  <a href="https://www.tiktok.com/@e.nsan/video/7694901337678515463">▶ Watch Emma on TikTok</a>
+</p>
+
 ![Emma’s compact dark Mac window](docs/media/emma-window.png)
 
 ## What she can do
