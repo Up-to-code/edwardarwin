@@ -84,6 +84,8 @@ Microphone and screen capture require the relevant permissions in **System Setti
 
 Model weights are downloaded during setup, rather than included in Git. Supertonic’s tested revision is pinned in `scripts/download_models.py`; the SenseVoice ONNX download is verified by SHA-256. Ollama’s model tag may change upstream.
 
+To rebuild the demos, record both clips in Settings → Demo recording, install `ffmpeg` (`brew install ffmpeg`), and run `./scripts/export_media.command`. The included introduction audio can be regenerated with `.venv/bin/python scripts/generate_intro.py`.
+
 ## Your data
 
 Chats, source bookmarks, and profile references live in `data/nori.sqlite3` in your source folder. The legacy filename is retained for compatibility. Captures are saved under `data/captures/`; temporary speech files are under `cache/`. These folders, personal configuration, bridge credentials, and logs are excluded from Git.

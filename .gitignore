@@ -23,3 +23,4 @@ live2d-ui/src/renderer/public/libs/live2d*.js
 .venv
 node_modules
 conf.yaml.backup
+docs/media/*.webm
