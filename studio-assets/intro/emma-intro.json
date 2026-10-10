@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0,
+    "end": 3.6919727891156464,
+    "expression": "exp_02",
+    "text": "Hey! I’m Emma. Emma Darwin, if we’re being formal."
+  },
+  {
+    "start": 3.8919727891156466,
+    "end": 8.001904761904761,
+    "expression": "exp_06",
+    "text": "I’m a little desktop companion with a surprisingly dramatic wardrobe."
+  },
+  {
+    "start": 8.201904761904762,
+    "end": 12.938775510204081,
+    "expression": "exp_02",
+    "text": "You can chat or talk to me. I speak English, move, and change my expression."
+  },
+  {
+    "start": 13.138775510204082,
+    "end": 18.432925170068028,
+    "expression": "exp_07",
+    "text": "Ask me to open Chrome, save links with tags, find your saved sources, or capture your screen."
+  },
+  {
+    "start": 18.632925170068027,
+    "end": 24.554013605442176,
+    "expression": "exp_01",
+    "text": "Your memories stay in a local SQLite database. My voice and speech recognition run on your Mac."
+  },
+  {
+    "start": 24.754013605442175,
+    "end": 32.137959183673466,
+    "expression": "exp_04",
+    "text": "AI helped build me. My backend is open source, and the desktop source is on GitHub, at Up to code, slash Edward Darwin."
+  },
+  {
+    "start": 32.33795918367347,
+    "end": 36.16925170068027,
+    "expression": "exp_02",
+    "text": "It’s a funny little experiment, made for you. Come say hello!"
+  }
+]

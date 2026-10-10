@@ -1,0 +1,92 @@
+[
+  {
+    "name": "mao_pro",
+    "label": "Mao",
+    "description": "Witch \u00b7 expressive gestures",
+    "url": "/live2d-models/mao_pro/runtime/mao_pro.model3.json",
+    "kScale": 0.7,
+    "initialXshift": 0,
+    "initialYshift": 0,
+    "idleMotionGroupName": "Idle",
+    "emotionMap": {
+      "neutral": 0,
+      "joy": 1,
+      "sadness": 4,
+      "anger": 8,
+      "fear": 6,
+      "surprise": 6,
+      "smirk": 5
+    },
+    "motions": [
+      {
+        "group": "",
+        "index": 0,
+        "label": "Mtn 02"
+      },
+      {
+        "group": "",
+        "index": 1,
+        "label": "Mtn 03"
+      },
+      {
+        "group": "",
+        "index": 2,
+        "label": "Mtn 04"
+      },
+      {
+        "group": "",
+        "index": 3,
+        "label": "Special 01"
+      },
+      {
+        "group": "",
+        "index": 4,
+        "label": "Special 02"
+      },
+      {
+        "group": "",
+        "index": 5,
+        "label": "Special 03"
+      }
+    ],
+    "expressions": [
+      "exp_01",
+      "exp_02",
+      "exp_03",
+      "exp_04",
+      "exp_05",
+      "exp_06",
+      "exp_07",
+      "exp_08"
+    ]
+  },
+  {
+    "name": "shizuku",
+    "label": "Shizuku",
+    "description": "Classic \u00b7 gentle movements",
+    "url": "/live2d-models/shizuku/runtime/shizuku.model3.json",
+    "kScale": 0.7,
+    "initialXshift": 0,
+    "initialYshift": 0,
+    "idleMotionGroupName": "Idle",
+    "emotionMap": {},
+    "motions": [
+      {
+        "group": "FlickUp",
+        "index": 0,
+        "label": "01"
+      },
+      {
+        "group": "Tap",
+        "index": 0,
+        "label": "02"
+      },
+      {
+        "group": "Flick3",
+        "index": 0,
+        "label": "03"
+      }
+    ],
+    "expressions": []
+  }
+]

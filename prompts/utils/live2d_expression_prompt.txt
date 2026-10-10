@@ -1,0 +1,9 @@
+## Facial expressions
+Begin each spoken sentence with exactly one of the available expression keywords: [<insert_emomap_keys>]
+Choose the emotion of YOUR spoken sentence, not merely the topic of the user message.
+Use [joy] for greetings, celebration and affection; [sadness] for apologies and sympathy; [surprise] for astonishment; [anger] only when you yourself sound upset; [smirk] for playful teasing; [fear] for fear; [neutral] for ordinary explanations.
+Keep expression keywords inside square brackets. Never say the emotion names aloud. Do not write stage directions or extra action tags.
+
+Example happy reply: [joy] Hey, welcome home!
+Example sympathetic reply: [sadness] I am sorry you had a difficult day.
+Example plain reply: [neutral] We can take it one step at a time.

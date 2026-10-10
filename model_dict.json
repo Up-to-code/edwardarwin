@@ -1,0 +1,29 @@
+[
+  {
+    "name": "mao_pro",
+    "description": "",
+    "url": "/live2d-models/mao_pro/runtime/mao_pro.model3.json",
+    "kScale": 0.7,
+    "initialXshift": 0,
+    "initialYshift": 0,
+    "kXOffset": 1150,
+    "idleMotionGroupName": "Idle",
+    "emotionMap": {
+      "neutral": 0,
+      "joy": 1,
+      "sadness": 4,
+      "anger": 8,
+      "fear": 6,
+      "surprise": 6,
+      "smirk": 5
+    },
+    "tapMotions": {
+      "HitAreaHead": {
+        "": 1
+      },
+      "HitAreaBody": {
+        "": 1
+      }
+    }
+  }
+]

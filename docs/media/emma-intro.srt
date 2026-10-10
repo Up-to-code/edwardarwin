@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:03,692
+Hey! I’m Emma. Emma Darwin, if we’re being formal.
+
+2
+00:00:03,892 --> 00:00:08,002
+I’m a little desktop companion with a surprisingly dramatic wardrobe.
+
+3
+00:00:08,202 --> 00:00:12,939
+You can chat or talk to me. I speak English, move, and change my expression.
+
+4
+00:00:13,139 --> 00:00:18,433
+Ask me to open Chrome, save links with tags, find your saved sources, or capture your screen.
+
+5
+00:00:18,633 --> 00:00:24,554
+Your memories stay in a local SQLite database. My voice and speech recognition run on your Mac.
+
+6
+00:00:24,754 --> 00:00:32,138
+AI helped build me. My backend is open source, and the desktop source is on GitHub, at Up to code, slash Edward Darwin.
+
+7
+00:00:32,338 --> 00:00:36,169
+It’s a funny little experiment, made for you. Come say hello!
