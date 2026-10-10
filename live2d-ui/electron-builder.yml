@@ -63,5 +63,3 @@ publish:
   provider: github
   releaseType: release
   publishAutoUpdate: false
-electronDownload:
-  mirror: https://github.com/electron/electron/releases/download/
