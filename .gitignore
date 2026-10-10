@@ -20,3 +20,5 @@ live2d-ui/src/renderer/WebSDK/Core/*.js
 *.tsbuildinfo
 live2d-ui/src/renderer/WebSDK/Core/*.js.map
 live2d-ui/src/renderer/public/libs/live2d*.js
+.venv
+node_modules
