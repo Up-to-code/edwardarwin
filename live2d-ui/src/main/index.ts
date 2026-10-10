@@ -163,13 +163,7 @@ app.whenReady().then(async () => {
   windowManager = new WindowManager();
   menuManager = new MenuManager((mode) => windowManager.setWindowMode(mode));
 
-  const window = windowManager.createWindow({
-    titleBarOverlay: {
-      color: "#111111",
-      symbolColor: "#FFFFFF",
-      height: 30,
-    },
-  });
+  const window = windowManager.createWindow({});
   menuManager.createTray();
   if (process.platform === 'darwin') Menu.setApplicationMenu(Menu.buildFromTemplate([
     {label:'Emma',submenu:[{role:'about'},{label:'Settings…',accelerator:'CmdOrCtrl+,',click:()=>windowManager.setWindowMode('window')},{type:'separator'},{role:'hide'},{role:'hideOthers'},{role:'unhide'},{type:'separator'},{role:'quit'}]},

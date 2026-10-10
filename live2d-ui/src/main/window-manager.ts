@@ -92,7 +92,7 @@ export class WindowManager {
       icon: process.platform === 'win32'
         ? join(__dirname, '../../resources/icon.ico')
         : join(__dirname, '../../resources/icon.png'),
-      ...(isMac ? { titleBarStyle: 'hiddenInset' } : {}),
+      ...(isMac ? { titleBarStyle: 'hidden' } : {}),
       webPreferences: {
         preload: join(__dirname, '../preload/index.js'),
         sandbox: false,
