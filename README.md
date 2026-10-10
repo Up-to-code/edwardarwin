@@ -6,7 +6,7 @@ A funny little AI companion for your Mac, built with help from AI. She talks, re
 
 Emma uses a local language model, English Supertonic 3 F4 speech, local speech recognition, and a Live2D character. The app icon is original artwork; the default animated character is Live2D’s **Mao Niziiro**, not an original Emma rig.
 
-[Watch Emma introduce herself](docs/media/emma-intro.mp4) · [Download the Mac app](https://github.com/Up-to-code/edwardarwin/releases/latest) · [Introduction transcript](docs/INTRODUCTION.md)
+[Watch Emma on TikTok](https://www.tiktok.com/@e.nsan/video/7694901337678515463) · [Introduction video](docs/media/emma-intro.mp4) · [Download the Mac app](https://github.com/Up-to-code/edwardarwin/releases/latest) · [Introduction transcript](docs/INTRODUCTION.md)
 
 ![Emma’s compact dark Mac window](docs/media/emma-window.png)
 
