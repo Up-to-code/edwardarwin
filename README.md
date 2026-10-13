@@ -122,3 +122,7 @@ Built on [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber), 
 This content uses sample data owned and copyrighted by Live2D Inc. The sample data are utilized in accordance with terms and conditions set by Live2D Inc. This content itself is created at the author’s sole discretion.
 
 ![Compact voice and motion settings](docs/media/emma-settings.png)
+
+## Project links
+
+[Source](https://github.com/Up-to-code/edwardarwin) · [Issues](https://github.com/Up-to-code/edwardarwin/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
